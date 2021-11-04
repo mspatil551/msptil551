@@ -108,7 +108,7 @@ header{
      background: #9051ff;
 }
 #home{
-    min-height: 100vh;
+    height: 100vh;
 }
 section{
     /* position: relative; */
