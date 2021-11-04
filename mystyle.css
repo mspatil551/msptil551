@@ -107,12 +107,15 @@ header{
      color: #fff;
      background: #9051ff;
 }
+#home{
+    min-height: 100vh;
+}
 section{
     /* position: relative; */
     /* display: flex;
     justify-content: center;
     align-items: center; */
-    /* min-height: 100vh; */
+    /* min-heigght: 100vh; */
     /* color: #f5f5f5; */
     /* font-size: 18vw; */
     /* font-weight: 700; */
